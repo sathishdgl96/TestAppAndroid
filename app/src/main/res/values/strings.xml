@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Urlconnection</string>
+    <string name="home_url">http://test.smetutorials.com:8090</string>
+</resources>
